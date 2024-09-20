@@ -6,9 +6,11 @@ This project implements a **Convolutional Neural Network (CNN)** model to classi
 ### Key Features:
 - **Traffic Sign Classification**: The model takes images of traffic signs and classifies them into various categories (e.g., stop signs, speed limits, etc.).
 - **Deep Learning Approach**: Utilizes Convolutional Neural Networks (CNN) for robust image classification.
-- **Transfer Learning (optional)**: Can include pre-trained models to fine-tune the classification task for better accuracy.
+
 
 ### Dataset:
 - The dataset used consists of labeled traffic sign images, which are categorized into different classes based on their meaning.
 - Common datasets used for such tasks include the **German Traffic Sign Recognition Benchmark (GTSRB)** or similar traffic sign datasets
 - Dataset : https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
+This project is part of my continuous learning journey in the world of deep learning and computer vision. Looking forward to exploring more innovative applications in the future!
